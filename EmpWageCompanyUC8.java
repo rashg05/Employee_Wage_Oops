@@ -1,8 +1,8 @@
 package com.bridgelab.oopsconcept;
 
 public class EmpWageCompanyUC8 {
-	private static final int IS_PART_TIME = 1;
-	private static final int IS_FULL_TIME = 2;
+//	private static final int IS_PART_TIME = 1;
+//	private static final int IS_FULL_TIME = 2;
 
 	public static int computeEmpWage(final Company company){
 		//variables

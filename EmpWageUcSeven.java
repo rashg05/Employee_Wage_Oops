@@ -2,13 +2,11 @@ package com.bridgelab.oopsconcept;
 
 public class EmpWageUcSeven {
 
-
 	double IS_PRESENT = Math.floor(Math.random() * 10) % 2;
 
 	public static void main(String[] args) {
 		EmpWageUcSeven obj = new EmpWageUcSeven();
 		EmpWageUcSeven(obj.IS_PRESENT);
-
 	}
 
 	private static void EmpWageUcSeven(double IS_PRESENT2) {
